@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "channel": "chan1",
+        "messageNumber": 1,
+        "messageTime": "2022-02-02T19:39:05.86337+01:00",
+        "messageType": "RocketLaunched"
+    },
+    "message": {
+        "type": "Falcon-9",
+        "launchSpeed": 500,
+        "mission": "ZEBRA"
+    }
+}
